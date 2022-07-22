@@ -1,0 +1,13 @@
+#div {
+  height: 400px;
+  width: 400px;
+  background-color: aqua;
+}
+#theIdOfTheBox {
+  position: absolute;
+  left: 100px;
+  top: 600px;
+  width: 300px;
+  height: 300px;
+  background: blue;
+}
